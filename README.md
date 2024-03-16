@@ -1,2 +1,5 @@
-# SnowBoarder-Game
- 01 | For Learning | Game | 2D | Unity
+# Snow Boarder
+
+This is my `second` project to learn `unity`
+
+![Shot00](shots/00.png)
